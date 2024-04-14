@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.navcardcontainer{
+    background-image: url("images/Rectangle\ 90.png");
+    background-size: cover;
+    width: 100%;
+}
+
+.cardcontainertop{
+    background-image: url("images/pngwing\ 1.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+.navlogoname{
+    font-family: "Istok Web";
+font-size: 27.7px;
+font-weight: 600;
+color: rgba(50, 50, 50, 1);
+margin:10px;
+text-decoration: none;
+}
+.logoimage{
+    width: 27.1px;
+height: 25.47px;
+margin: 10px;
+}
+
+
+.navlistcontainer{
+    align-items:end;
+    margin: auto;
+}
+
+.navlistcontainer li {
+    margin: 0px 10px 0px 10px;
+    color: rgba(50, 50, 50, 1);
+    font-size: 14px;
+  font-weight: 700;
+
+}
+.btngetstarted{
+    color: rgba(50, 50, 50, 1);
+    font-size: 14px;
+  font-weight: 700;
+  margin: 10px;
+  background-color: transparent;
+  border-color: rgba(254, 149, 99, 1);
+  border-radius: 7px;
+  border-style:solid;
+  border-width: 3px;
+}
